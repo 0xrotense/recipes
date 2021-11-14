@@ -1,0 +1,25 @@
+.main-header{
+    text-align: center;
+}
+
+.imagebx{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.main-section{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    gap: 4px;
+    grid-auto-flow: column;
+}
+
+.recipe-listone{
+    padding: 50px;
+}
+
+.recipe-listtwo{
+    padding: 50px;
+}
